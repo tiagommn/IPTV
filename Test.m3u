@@ -71,9 +71,8 @@ http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
 http://79.127.207.193:80/ArenaFight/playlist.m3u8
 #EXTINF:-1,Fight Network HD
 http://79.127.207.193:80/FightNetwork/playlist.m3u8
-#EXTINF:1.Rai Sport HD
+#EXTINF:-1.Rai Sport HD
 http://79.127.207.193:80/RaiSport/playlist.m3u8
-
 #EXTINF:-1,SporTV HD
 https://02.arlivre.online/sportv/index.m3u8
 #EXTINF:-1,SporTV 2 HD
@@ -114,3 +113,4 @@ https://02.arlivre.online/history2/index.m3u8
 https://02.arlivre.online/band/index.m3u8
 #EXTINF:-1,SBT HD
 https://02.arlivre.online/sbt/index.m3u8
+
