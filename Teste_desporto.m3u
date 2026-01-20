@@ -1,4 +1,373 @@
 #EXTM3U
+#EXTINF:0 tvg-name="Eurosport" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Eurosport
+http://ua.online24.pm/play/15/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Eurosport HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Eurosport HD
+http://ua.online24.pm/play/145/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Eurosport 2" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Eurosport 2
+http://ua.online24.pm/play/43/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Eurosport 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Eurosport 2 HD
+http://ua.online24.pm/play/361/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Матч! ПРЕМЬЕР" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! ПРЕМЬЕР
+http://ua.online24.pm/play/37/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Матч Премьер HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч Премьер HD
+http://ua.online24.pm/play/250/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Матч Арена" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч Арена
+http://ua.online24.pm/play/136/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Матч! Арена HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Арена HD
+http://ua.online24.pm/play/146/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Матч! Планета" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Планета
+http://ua.online24.pm/play/14/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Матч ТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч ТВ
+http://ua.online24.pm/play/5/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Матч! HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! HD
+http://ua.online24.pm/play/397/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Матч! 50fps" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! 50fps
+http://ua.online24.pm/play/680/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Матч! Боец HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Боец HD
+http://ua.online24.pm/play/30/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="МАТЧ! Страна" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",МАТЧ! Страна
+http://ua.online24.pm/play/134/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Матч! Страна HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Страна HD
+http://ua.online24.pm/play/212/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Матч! Игра" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Игра
+http://ua.online24.pm/play/153/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Матч! Игра HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Игра HD
+http://ua.online24.pm/play/268/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Матч! Футбол 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Футбол 1 HD
+http://ua.online24.pm/play/260/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Матч Футбол 1" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч Футбол 1
+http://ua.online24.pm/play/54/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Матч! Футбол 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Футбол 2 HD
+http://ua.online24.pm/play/271/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Матч! Футбол 3 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Футбол 3 HD
+http://ua.online24.pm/play/329/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Megogo Спорт HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Megogo Спорт HD
+http://ua.online24.pm/play/1001/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Megogo Футбол 5 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Megogo Футбол 5 HD
+http://ua.online24.pm/play/10011/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports Premium HD" group-title="Спорт",Setanta Sports Premium HD
+http://ua.online24.pm/play/1650/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports Ukraine" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Setanta Sports Ukraine
+http://ua.online24.pm/play/1434/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports+ Ukraine" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Setanta Sports+ Ukraine
+http://ua.online24.pm/play/9957/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Setanta Sports 1 HD
+http://ua.online24.pm/play/942/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Setanta Sports 2 HD
+http://ua.online24.pm/play/943/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Setanta Qazaqstan" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Setanta Qazaqstan
+http://ua.online24.pm/play/5094/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports HD MD" group-title="Спорт",Setanta Sports HD MD
+http://ua.online24.pm/play/11008/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Суспільне Спорт" group-title="Спорт",Суспільне Спорт
+http://ua.online24.pm/play/316/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="DiviSport" group-title="Спорт",DiviSport
+http://ua.online24.pm/play/315/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Dynamo Kyiv TV" group-title="Спорт",Dynamo Kyiv TV
+http://ua.online24.pm/play/8797/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Футбол" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Футбол
+http://ua.online24.pm/play/171/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Футбол HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Футбол HD
+http://ua.online24.pm/play/3920/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Viju+ Sport" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Viju+ Sport
+http://ua.online24.pm/play/77/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Viju+ Sport HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Viju+ Sport HD
+http://ua.online24.pm/play/198/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Окко Спорт HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Окко Спорт HD
+http://ua.online24.pm/play/7337/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Окко Футбол HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Окко Футбол HD
+http://ua.online24.pm/play/7338/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name=" Окко.Прайм Спорт" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт", Окко.Прайм Спорт
+http://ua.online24.pm/play/1833/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Старт Триумф HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Старт Триумф HD
+http://ua.online24.pm/play/7375/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Старт HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Старт HD
+http://ua.online24.pm/play/9946/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Конный мир HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Конный мир HD
+http://ua.online24.pm/play/394/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="КХЛ" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",КХЛ
+http://ua.online24.pm/play/149/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="KHL Prime" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",KHL Prime
+http://ua.online24.pm/play/177/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Хоккейный" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Хоккейный
+http://ua.online24.pm/play/6160/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Бокс ТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Бокс ТВ
+http://ua.online24.pm/play/482/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Sport 1 UA" group-title="Спорт",Sport 1 UA
+http://ua.online24.pm/play/2638/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Sport 2 UA" group-title="Спорт",Sport 2 UA
+http://ua.online24.pm/play/2639/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Sport 3 UA HD" group-title="Спорт",Sport 3 UA HD
+http://ua.online24.pm/play/2640/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Sport 4 UA" group-title="Спорт",Sport 4 UA
+http://ua.online24.pm/play/2641/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="NBA TV" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",NBA TV
+http://ua.online24.pm/play/9984/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Мир Баскетбола" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Мир Баскетбола
+http://ua.online24.pm/play/8831/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Мяч" group-title="Спорт",Мяч
+http://ua.online24.pm/play/1763/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Авто Плюс" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Авто Плюс
+http://ua.online24.pm/play/29/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Extreme Sports" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Extreme Sports
+http://ua.online24.pm/play/53/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Спортивный" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Спортивный
+http://ua.online24.pm/play/6159/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="UDAR" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",UDAR
+http://ua.online24.pm/play/4111/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Живи активно HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Живи активно HD
+http://ua.online24.pm/play/1771/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="UFC ТВ HD" group-title="Спорт",UFC ТВ HD
+http://ua.online24.pm/play/1777/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="MMA-TV HD" group-title="Спорт",MMA-TV HD
+http://ua.online24.pm/play/3795/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Xsport HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Xsport HD
+http://ua.online24.pm/play/480/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Xsport+ HD" group-title="Спорт",Xsport+ HD
+http://ua.online24.pm/play/2635/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Equalympic HD" group-title="Спорт",Equalympic HD
+http://ua.online24.pm/play/8788/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Русский Экстрим" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Русский Экстрим
+http://ua.online24.pm/play/345/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Точка отрыва" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Точка отрыва
+http://ua.online24.pm/play/601/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Авто 24" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Авто 24
+http://ua.online24.pm/play/256/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Cars & Stars TV HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Cars & Stars TV HD
+http://ua.online24.pm/play/9904/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="FightBox" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",FightBox
+http://ua.online24.pm/play/8790/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="TRACE Sport Stars" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",TRACE Sport Stars
+http://ua.online24.pm/play/9907/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Fast&FunBox" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Fast&FunBox
+http://ua.online24.pm/play/8792/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="MAINCAST SPORT " group-title="Спорт",MAINCAST SPORT
+http://ua.online24.pm/play/1994/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Tennis+" group-title="Спорт",Tennis+
+http://ua.online24.pm/play/1889/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="UPL.TV HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",UPL.TV HD
+http://ua.online24.pm/play/523/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="УПЛ ТВ 1" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",УПЛ ТВ 1
+http://ua.online24.pm/play/524/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="УПЛ ТВ 2" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",УПЛ ТВ 2
+http://ua.online24.pm/play/525/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="УПЛ ТВ 3" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",УПЛ ТВ 3
+http://ua.online24.pm/play/526/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="QazSport" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",QazSport
+http://ua.online24.pm/play/1841/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Q Arena" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Q Arena
+http://ua.online24.pm/play/1842/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Q Sport League" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Q Sport League
+http://ua.online24.pm/play/1843/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Sport+ Qazaqstan" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Sport+ Qazaqstan
+http://ua.online24.pm/play/1844/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_1_HD" group-title="Спорт",BOX_SPORT_LIVE_1_HD
+http://ua.online24.pm/play/51013/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_2_HD" group-title="Спорт",BOX_SPORT_LIVE_2_HD
+http://ua.online24.pm/play/51014/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_3_HD" group-title="Спорт",BOX_SPORT_LIVE_3_HD
+http://ua.online24.pm/play/51015/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_4_HD" group-title="Спорт",BOX_SPORT_LIVE_4_HD
+http://ua.online24.pm/play/51016/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_5_HD" group-title="Спорт",BOX_SPORT_LIVE_5_HD
+http://ua.online24.pm/play/51017/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_6_HD" group-title="Спорт",BOX_SPORT_LIVE_6_HD
+http://ua.online24.pm/play/51018/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_7_HD" group-title="Спорт",BOX_SPORT_LIVE_7_HD
+http://ua.online24.pm/play/51019/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_8_HD" group-title="Спорт",BOX_SPORT_LIVE_8_HD
+http://ua.online24.pm/play/51020/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_9_HD" group-title="Спорт",BOX_SPORT_LIVE_9_HD
+http://ua.online24.pm/play/51021/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_4K" group-title="Спорт",BOX_SPORT_LIVE_4K
+http://ua.online24.pm/play/51022/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BeIN Sport 1 HD" group-title="Спорт",BeIN Sport 1 HD
+http://ua.online24.pm/play/1101/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BeIN Sport 2 HD" group-title="Спорт",BeIN Sport 2 HD
+http://ua.online24.pm/play/1102/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BeIN Sport 3 HD" group-title="Спорт",BeIN Sport 3 HD
+http://ua.online24.pm/play/1103/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BeIN Sport 4 HD" group-title="Спорт",BeIN Sport 4 HD
+http://ua.online24.pm/play/1104/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BeIN EXTRAS" group-title="Спорт",BeIN EXTRAS
+http://ua.online24.pm/play/1686/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="TNT Sport 1 HD" group-title="Спорт",TNT Sport 1 HD
+http://ua.online24.pm/play/922/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="TNT Sport 2 HD" group-title="Спорт",TNT Sport 2 HD
+http://ua.online24.pm/play/923/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="TNT Sport 3 HD" group-title="Спорт",TNT Sport 3 HD
+http://ua.online24.pm/play/934/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="DAZN 1 DE" group-title="Спорт",DAZN 1 DE
+http://ua.online24.pm/play/803/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="DAZN 2 DE" group-title="Спорт",DAZN 2 DE
+http://ua.online24.pm/play/809/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Movistar Formula 1" group-title="Спорт",Movistar Formula 1
+http://ua.online24.pm/play/1121/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Sky Sport Bundesliga HD" group-title="Спорт",Sky Sport Bundesliga HD
+http://ua.online24.pm/play/836/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Live Sport 1" group-title="Спорт",Live Sport 1
+http://ua.online24.pm/play/1580/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Live Sport 2" group-title="Спорт",Live Sport 2
+http://ua.online24.pm/play/1581/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Football Live 1" group-title="Спорт",Football Live 1
+http://ua.online24.pm/play/1704/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Football Live 2" group-title="Спорт",Football Live 2
+http://ua.online24.pm/play/1705/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Football Live 3" group-title="Спорт",Football Live 3
+http://ua.online24.pm/play/1706/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Football Live 4" group-title="Спорт",Football Live 4
+http://ua.online24.pm/play/1707/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Football Live 5" group-title="Спорт",Football Live 5
+http://ua.online24.pm/play/1708/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Football Live 6" group-title="Спорт",Football Live 6
+http://ua.online24.pm/play/1709/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Football Live 7" group-title="Спорт",Football Live 7
+http://ua.online24.pm/play/1710/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Football Live 8" group-title="Спорт",Football Live 8
+http://ua.online24.pm/play/1711/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Football Live 9" group-title="Спорт",Football Live 9
+http://ua.online24.pm/play/1712/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Football Live 10" group-title="Спорт",Football Live 10
+http://ua.online24.pm/play/1713/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Football Live 11" group-title="Спорт",Football Live 11
+http://ua.online24.pm/play/1714/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Football Live 12" group-title="Спорт",Football Live 12
+http://ua.online24.pm/play/1715/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Football Live 13" group-title="Спорт",Football Live 13
+http://ua.online24.pm/play/1716/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 1" group-title="Спорт",VIP Sport 1
+http://ua.online24.pm/play/5009/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 2" group-title="Спорт",VIP Sport 2
+http://ua.online24.pm/play/5010/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 3" group-title="Спорт",VIP Sport 3
+http://ua.online24.pm/play/5011/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 4" group-title="Спорт",VIP Sport 4
+http://ua.online24.pm/play/5012/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 5" group-title="Спорт",VIP Sport 5
+http://ua.online24.pm/play/5013/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 7" group-title="Спорт",VIP Sport 7
+http://ua.online24.pm/play/5014/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 6" group-title="Спорт",VIP Sport 6
+http://ua.online24.pm/play/5015/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 8" group-title="Спорт",VIP Sport 8
+http://ua.online24.pm/play/5016/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 9" group-title="Спорт",VIP Sport 9
+http://ua.online24.pm/play/5017/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 10" group-title="Спорт",VIP Sport 10
+http://ua.online24.pm/play/5018/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 11" group-title="Спорт",VIP Sport 11
+http://ua.online24.pm/play/5019/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 12" group-title="Спорт",VIP Sport 12
+http://ua.online24.pm/play/5020/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 13" group-title="Спорт",VIP Sport 13
+http://ua.online24.pm/play/5021/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name=" ViP Sport 14" group-title="Спорт", ViP Sport 14
+http://ua.online24.pm/play/5022/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="ViP Sport 15" group-title="Спорт",ViP Sport 15
+http://ua.online24.pm/play/5023/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="ViP Sport 16" group-title="Спорт",ViP Sport 16
+http://ua.online24.pm/play/5024/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="ViP Sport 17" group-title="Спорт",ViP Sport 17
+http://ua.online24.pm/play/5025/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="betking live 1" group-title="Спорт",betking live 1
+http://ua.online24.pm/play/5026/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="betking live 2" group-title="Спорт",betking live 2
+http://ua.online24.pm/play/5027/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="FintGa 1" group-title="Спорт",FintGa 1
+http://ua.online24.pm/play/5028/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="FintGa 2" group-title="Спорт",FintGa 2
+http://ua.online24.pm/play/5029/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="FintGa 3" group-title="Спорт",FintGa 3
+http://ua.online24.pm/play/5030/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="FintGa 4" group-title="Спорт",FintGa 4
+http://ua.online24.pm/play/5031/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Pimple 1" group-title="Спорт",Pimple 1
+http://ua.online24.pm/play/5032/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Pimple 2" group-title="Спорт",Pimple 2
+http://ua.online24.pm/play/5033/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Pimple 3" group-title="Спорт",Pimple 3
+http://ua.online24.pm/play/5034/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Pimple 4" group-title="Спорт",Pimple 4
+http://ua.online24.pm/play/5035/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Pimple 5" group-title="Спорт",Pimple 5
+http://ua.online24.pm/play/5036/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Pimple 6" group-title="Спорт",Pimple 6
+http://ua.online24.pm/play/5037/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX Be ON Edge HD" group-title="Спорт",BOX Be ON Edge HD
+http://ua.online24.pm/play/4215/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX Be ON Edge 1 Live HD" group-title="Спорт",BOX Be ON Edge 1 Live HD
+http://ua.online24.pm/play/4213/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX Be ON Edge 2 Live HD" group-title="Спорт",BOX Be ON Edge 2 Live HD
+http://ua.online24.pm/play/4214/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 1 HD" group-title="Спорт",BOX SportCast Live 1 HD
+http://ua.online24.pm/play/4224/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 2 HD" group-title="Спорт",BOX SportCast Live 2 HD
+http://ua.online24.pm/play/4225/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 3 HD" group-title="Спорт",BOX SportCast Live 3 HD
+http://ua.online24.pm/play/4226/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 4 HD" group-title="Спорт",BOX SportCast Live 4 HD
+http://ua.online24.pm/play/4227/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 5 HD" group-title="Спорт",BOX SportCast Live 5 HD
+http://ua.online24.pm/play/4228/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 6 HD" group-title="Спорт",BOX SportCast Live 6 HD
+http://ua.online24.pm/play/4232/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 7 HD" group-title="Спорт",BOX SportCast Live 7 HD
+http://ua.online24.pm/play/4233/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 8 HD" group-title="Спорт",BOX SportCast Live 8 HD
+http://ua.online24.pm/play/4234/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 9 HD" group-title="Спорт",BOX SportCast Live 9 HD
+http://ua.online24.pm/play/4235/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="MMA Junkie" group-title="Спорт",MMA Junkie
+http://ua.online24.pm/play/5718/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Dubai Sports 2" group-title="Спорт",Dubai Sports 2
+http://ua.online24.pm/play/5406/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Dubai Sports 3" group-title="Спорт",Dubai Sports 3
+http://ua.online24.pm/play/5407/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Diema Sport HD" group-title="Спорт",Diema Sport HD
+http://ua.online24.pm/play/51002/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Diema Sport 2 HD" group-title="Спорт",Diema Sport 2 HD
+http://ua.online24.pm/play/51003/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Diema Sport 3 HD" group-title="Спорт",Diema Sport 3 HD
+http://ua.online24.pm/play/51004/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Diema Sport 2 4K" group-title="Спорт",Diema Sport 2 4K
+http://ua.online24.pm/play/51001/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Diema Sport 3 4K" group-title="Спорт",Diema Sport 3 4K
+http://ua.online24.pm/play/51000/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV + PT" group-title="Спорт",SPORT TV + PT
+http://ua.online24.pm/play/1967/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV 1 PT" group-title="Спорт",SPORT TV 1 PT
+http://ua.online24.pm/play/1968/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV 2 PT" group-title="Спорт",SPORT TV 2 PT
+http://ua.online24.pm/play/1969/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV 3 PT" group-title="Спорт",SPORT TV 3 PT
+http://ua.online24.pm/play/1970/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV 4 PT" group-title="Спорт",SPORT TV 4 PT
+http://ua.online24.pm/play/1971/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV 5 PT" group-title="Спорт",SPORT TV 5 PT
+http://ua.online24.pm/play/1972/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV 6 PT" group-title="Спорт",SPORT TV 6 PT
+http://ua.online24.pm/play/1973/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="M+ Deportes ES" group-title="Спорт",M+ Deportes ES
+http://ua.online24.pm/play/1974/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="M+ Deportes 2 ES" group-title="Спорт",M+ Deportes 2 ES
+http://ua.online24.pm/play/1975/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="M+ Deportes 3 ES" group-title="Спорт",M+ Deportes 3 ES
+http://ua.online24.pm/play/1976/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="M+ Deportes 4 ES" group-title="Спорт",M+ Deportes 4 ES
+http://ua.online24.pm/play/1977/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="DAZN 1 PT" group-title="Спорт",DAZN 1 PT
+http://ua.online24.pm/play/1978/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="DAZN 2 PT" group-title="Спорт",DAZN 2 PT
+http://ua.online24.pm/play/1979/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="DAZN 1 ESPANA " group-title="Спорт",DAZN 1 ESPANA
+http://ua.online24.pm/play/1980/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="DAZN 2 ESPAÑA" group-title="Спорт",DAZN 2 ESPAÑA
+http://ua.online24.pm/play/1981/7CD2C233051D352/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Единоборства" group-title="Спорт",Clarity4K Единоборства
+http://ua.online24.pm/play/4611/7CD2C233051D352/video.m3u8
+
+
+
 #EXTINF:-1,Arena Sport 1 HD
 http://79.127.207.193:80/ArenaSport1HD/playlist.m3u8
 #EXTINF:-1,Arena Sport 2 HD
@@ -114,3 +483,4 @@ https://02.arlivre.online/history2/index.m3u8
 https://02.arlivre.online/band/index.m3u8
 #EXTINF:-1,SBT HD
 https://02.arlivre.online/sbt/index.m3u8
+
