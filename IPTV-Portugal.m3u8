@@ -616,61 +616,69 @@ https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQt1L9hXlQnNFs58DCv1NFGnF_vC
 #EXTINF:-1 xui-id="217972" tvg-id="" tvg-name="BENFICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" group-title="DESPORTO-PT",BENFICA TV
 https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQqSF4VKST7mdaAmosfvoj2J5xFFuc_NKXRrW-b_xGHOj
 
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV" tvg-logo="" group-title="DESPORTO-EXTRA",PT: A BOLA TV
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: A BOLA TV
 http://lunar.pm:8080/7062390861/ksAGBaT29HEb/131986
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1" tvg-logo="" group-title="DESPORTO-EXTRA",PT: ELEVEN SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: ELEVEN SPORT 1
 http://lunar.pm:8080/7062390861/ksAGBaT29HEb/132016
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 2" tvg-logo="" group-title="DESPORTO-EXTRA",PT: ELEVEN SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 2" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: ELEVEN SPORT 2
 http://lunar.pm:8080/7062390861/ksAGBaT29HEb/132017
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 3" tvg-logo="" group-title="DESPORTO-EXTRA",PT: ELEVEN SPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 3" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: ELEVEN SPORT 3
 http://lunar.pm:8080/7062390861/ksAGBaT29HEb/132018
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 4" tvg-logo="" group-title="DESPORTO-EXTRA",PT: ELEVEN SPORT 4
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 4" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: ELEVEN SPORT 4
 http://lunar.pm:8080/7062390861/ksAGBaT29HEb/132019
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 5" tvg-logo="" group-title="DESPORTO-EXTRA",PT: ELEVEN SPORT 5
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 5" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: ELEVEN SPORT 5
 http://lunar.pm:8080/7062390861/ksAGBaT29HEb/132020
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 6" tvg-logo="" group-title="DESPORTO-EXTRA",PT: ELEVEN SPORT 6
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 6" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: ELEVEN SPORT 6
 http://lunar.pm:8080/7062390861/ksAGBaT29HEb/132021
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="" group-title="DESPORTO-EXTRA",PT: SPORT TV +
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: SPORT TV +
 http://lunar.pm:8080/7062390861/ksAGBaT29HEb/132065
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="DESPORTO-EXTRA",PT: SPORT TV 1
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: SPORT TV 1
 http://lunar.pm:8080/7062390861/ksAGBaT29HEb/132066
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="DESPORTO-EXTRA",PT: SPORT TV 2
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: SPORT TV 2
 http://lunar.pm:8080/7062390861/ksAGBaT29HEb/132067
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="DESPORTO-EXTRA",PT: SPORT TV 3
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: SPORT TV 3
 http://lunar.pm:8080/7062390861/ksAGBaT29HEb/132068
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="DESPORTO-EXTRA",PT: SPORT TV 4
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: SPORT TV 4
 http://lunar.pm:8080/7062390861/ksAGBaT29HEb/132069
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="DESPORTO-EXTRA",PT: SPORT TV 5
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: SPORT TV 5
 http://lunar.pm:8080/7062390861/ksAGBaT29HEb/132070
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6" tvg-logo="" group-title="DESPORTO-EXTRA",PT: Sport TV 6
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: Sport TV 6
 http://lunar.pm:8080/7062390861/ksAGBaT29HEb/132071
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA" tvg-logo="" group-title="DESPORTO-EXTRA",PT: SPORT TV NBA
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: SPORT TV NBA
 http://lunar.pm:8080/7062390861/ksAGBaT29HEb/132072
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV" tvg-logo="" group-title="DESPORTO-EXTRA",PT: SPORTING TV
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: SPORTING TV
 http://lunar.pm:8080/7062390861/ksAGBaT29HEb/132073
-#EXTINF:-1 tvg-id="" tvg-name="PT: BTV" tvg-logo="" group-title="DESPORTO-EXTRA",PT: BTV
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: BTV
 http://lunar.pm:8080/7062390861/ksAGBaT29HEb/131998
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="DESPORTO-EXTRA",PT: SPORT TV 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: SPORT TV 1 FHD
 http://xxip25.top:8080/Z7CVd7f/HU1hQrT/167742
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="DESPORTO-EXTRA",PT: SPORT TV 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: SPORT TV 2 HD
 http://xxip25.top:8080/Z7CVd7f/HU1hQrT/167743
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="DESPORTO-EXTRA",PT: SPORT TV 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: SPORT TV 3 HD
 http://xxip25.top:8080/Z7CVd7f/HU1hQrT/167744
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="DESPORTO-EXTRA",PT: SPORT TV 4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: SPORT TV 4 FHD
 http://xxip25.top:8080/Z7CVd7f/HU1hQrT/167745
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 FHD " tvg-logo="" group-title="DESPORTO-EXTRA",PT: Eleven Sports 1 FHD 
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 FHD " tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: Eleven Sports 1 FHD 
 http://xxip25.top:8080/Z7CVd7f/HU1hQrT/35264
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="DESPORTO-EXTRA",PT: ELEVEN SPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: ELEVEN SPORTS 3 HD
 http://xxip25.top:8080/Z7CVd7f/HU1hQrT/167748
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="DESPORTO-EXTRA",PT: ELEVEN SPORTS 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: ELEVEN SPORTS 4 HD
 http://xxip25.top:8080/Z7CVd7f/HU1hQrT/167749
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="DESPORTO-EXTRA",PT: ELEVEN SPORTS 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: ELEVEN SPORTS 5 HD
 http://xxip25.top:8080/Z7CVd7f/HU1hQrT/167750
-#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV HD" tvg-logo="" group-title="DESPORTO-EXTRA",PT: BENFICA TV HD
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV HD" tvg-logo="" group-title="DESPORTO-EXTRA PT",PT: BENFICA TV HD
 http://xxip25.top:8080/Z7CVd7f/HU1hQrT/136726
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="DESPORTO-EXTRA PT: SPORT TV 1 HD
+http://uydukent.ddns.us:80/WhsZSLrA6a/hZ3jomEQbN/24153
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="DESPORTO-EXTRA PT: SPORT TV 2 HD
+http://uydukent.ddns.us:80/WhsZSLrA6a/hZ3jomEQbN/24154
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="DESPORTO-EXTRA PT: SPORT TV 3 HD
+http://uydukent.ddns.us:80/WhsZSLrA6a/hZ3jomEQbN/24155
+
 
 #EXTINF:0 tvg-name="Eurosport" catchup="shift" timeshift="5" catchup-days="5" group-title="Desporto extra",Eurosport
 http://ua.online24.pm/play/15/7CD2C233051D352/video.m3u8
@@ -1156,3 +1164,22 @@ https://02.arlivre.online/history2/index.m3u8
 https://02.arlivre.online/band/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto extra",SBT HD
 https://02.arlivre.online/sbt/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto extra",Arena 1 Premium
+http://87.106.2.165:8465/Arena1Premium/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto extra",Arena 2 Premium
+http://87.106.2.165:8465/Arena2Premium/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto extra",Arena 3 Premium
+http://87.106.2.165:8465/Arena3Premium/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto extra",Arena 1
+http://87.106.2.165:8465/Arena1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto extra",Arena 2
+http://87.106.2.165:8465/Arena2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto extra",Arena 3
+http://87.106.2.165:8465/Arena3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto extra",Arena 4
+http://87.106.2.165:8465/Arena4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto extra",Arena 5
+http://87.106.2.165:8465/Arena5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto extra",Arena 6
+http://87.106.2.165:8465/Arena6/index.m3u8
