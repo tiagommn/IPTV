@@ -1,24 +1,26 @@
-SPORT TV 1
+#EXTM3U
+
+#EXTINF:-1 tvg-name="" group-title="",SPORT TV 1
 http://144.217.181.165/1gy6y6yhfgf/index.m3u8
-SPORT TV 2
+#EXTINF:-1 tvg-name="" group-title="",SPORT TV 2
 http://144.217.181.165/2vg567yhf54y/index.m3u8
-SPORT TV 3
+#EXTINF:-1 tvg-name="" group-title="",SPORT TV 3
 http://144.217.181.165/3vgyy7te4/index.m3u8
-SPORT TV 4
+#EXTINF:-1 tvg-name="" group-title="",SPORT TV 4
 http://144.217.181.165/4v64rfy76t/index.m3u8
-SPORT TV 5
+#EXTINF:-1 tvg-name="" group-title="",SPORT TV 5
 http://144.217.181.165/5rft56rhy7543/index.m3u8
-SPORTING TV
+#EXTINF:-1 tvg-name="" group-title="",SPORTING TV
 http://144.217.181.165/188794/index.m3u8
-ELEVEN SPORTS 1 HD
+#EXTINF:-1 tvg-name="" group-title="",ELEVEN SPORTS 1 HD
 http://144.217.181.165/k3/index.m3u8
-DAZN 1
+#EXTINF:-1 tvg-name="" group-title="",DAZN 1
 http://znty.dyndns.org:5010/hls/eleven1.m3u8
-DAZN 2
+#EXTINF:-1 tvg-name="" group-title="",DAZN 2
 http://znty.dyndns.org:5010/hls/eleven2.m3u8
-DAZN 3
+#EXTINF:-1 tvg-name="" group-title="",DAZN 3
 http://znty.dyndns.org:5010/hls/eleven3.m3u8
-DAZN 4
+#EXTINF:-1 tvg-name="" group-title="",DAZN 4
 http://znty.dyndns.org:5010/hls/eleven4.m3u8
-DAZN 5
+#EXTINF:-1 tvg-name="" group-title="",DAZN 5
 http://znty.dyndns.org:5010/hls/eleven5.m3u8
