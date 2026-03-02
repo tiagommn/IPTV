@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Bein Sport
+#EXTINF:-1,Bein Sport 1
 http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1,Bein Sport 2
 http://135.125.109.73:9000/beinsport2_.m3u8
@@ -19,133 +19,31 @@ http://135.125.109.73:9000/beinsport8_.m3u8
 http://135.125.109.73:9000/beinsport9_.m3u8
 #EXTINF:-1,Bein Sport 10
 http://135.125.109.73:9000/beinsport10_.m3u8
-#EXTINF:-1,Champion TV HD
-http://135.125.109.73:9000/championtvhd_.m3u8
-#EXTINF:-1,Bein Sport Ten 1
+#EXTINF:-1,Bein Sporten 1
 http://135.125.109.73:9000/beinsporten1_.m3u8
-#EXTINF:-1,Bein Sport Ten 2
+#EXTINF:-1,Bein Sporten 2
 http://135.125.109.73:9000/beinsporten2_.m3u8
 #EXTINF:-1,Bein Sport Global
 http://135.125.109.73:9000/beinsportglobal_.m3u8
 #EXTINF:-1,Bein Sport New
 http://135.125.109.73:9000/beinsportnew_.m3u8
-#EXTINF:-1,Bein Sport Xtra
-http://135.125.109.73:9000/beinsport10_.m3u8
-#EXTINF:-1,Bein Sport New
-http://135.125.109.73:9000/beinsportnew_.m3u8
-#EXTINF:-1,Astro Premier League
-http://135.125.109.73:9000/supersport1hd_.m3u8
-#EXTINF:-1,Alwan Sport 1 FHD VIP Arb
-http://135.125.109.73:9000/Alwan%20Sport%201%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1,Alwan Sport 2 FHD VIP Arb
-http://135.125.109.73:9000/Alwan%20Sport%202%20HD%20VIP%20Arb_.m3u8
-#EXTINF:-1,Alwan Sport 3 FHD VIP Arb
-http://135.125.109.73:9000/Alwan%20Sport%203%20HD%20VIP%20Arb_.m3u8
-#EXTINF:-1,Alwan Sport 4 FHD VIP Arb
-http://135.125.109.73:9000/Alwan%20Sport%204%20HD%20VIP%20Arb_.m3u8
-#EXTINF:-1,Alwan Sport 5 FHD VIP Arb
-http://135.125.109.73:9000/Alwan%20Sport%205%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1,Alwan Sport 6 FHD VIP Arb
-http://135.125.109.73:9000/Alwan%20Sport%206%20FHD%20VIP%20Arb_.m3u8
-#EXTINF:-1,Bein Sports 1 4K QA
-http://135.125.109.73:9000/Bein%20Sports%201%204K%20QA_.m3u8
-#EXTINF:-1,Bein Sports 2 4K QA
-http://135.125.109.73:9000/Bein%20Sports%202%204K%20QA_.m3u8
-#EXTINF:-1,Bein Sports 3 4K QA
-http://135.125.109.73:9000/Bein%20Sports%203%204K%20QA_.m3u8
-#EXTINF:-1,Bein Sports 4 4K QA
-http://135.125.109.73:9000/Bein%20Sports%204%204K%20QA_.m3u8
-#EXTINF:-1,Bein Sports 5 4K QA
-http://135.125.109.73:9000/Bein%20Sports%205%204K%20QA_.m3u8
-#EXTINF:-1,Bein Sports 6 4K QA
-http://135.125.109.73:9000/Bein%20Sports%206%204K%20QA_.m3u8
-#EXTINF:-1,Bein Sports 7 4K QA
-http://135.125.109.73:9000/Bein%20Sports%207%204K%20QA_.m3u8
-#EXTINF:-1,Bein Sport 2
-http://135.125.109.73:9000/beinsport2_.m3u8
-#EXTINF:-1,Bein Sport Global
-http://135.125.109.73:9000/beinsportglobal_.m3u8
-#EXTINF:-1,Bein Sport Xtra2
+#EXTINF:-1,Bein Sport Xtra 1
+http://135.125.109.73:9000/beinsportxtra1_.m3u8
+#EXTINF:-1,Bein Sport Xtra 2
 http://135.125.109.73:9000/beinsportxtra2_.m3u8
-#EXTINF:-1,Bein Sport New
-http://135.125.109.73:9000/beinsportnew_.m3u8
+#EXTINF:-1,DAZN 1 PT
+http://135.125.109.73:9000/dazn1_.m3u8
+#EXTINF:-1,DAZN 2 PT
+http://135.125.109.73:9000/dazn2_.m3u8
 #EXTINF:-1,Super Sport 2
 http://135.125.109.73:9000/supersport2_.m3u8
-#EXTINF:-1,Sky Sport Criket HD
+#EXTINF:-1,Super Sport 3
+http://135.125.109.73:9000/supersport3_.m3u8
+#EXTINF:-1,Super Sport 5
+http://135.125.109.73:9000/supersport5_.m3u8
+#EXTINF:-1,Super Sport 10
+http://135.125.109.73:9000/supersport10_.m3u8
+#EXTINF:-1,Super Sport 11
+http://135.125.109.73:9000/supersport11_.m3u8
+#EXTINF:-1,Super Sport 12
 http://135.125.109.73:9000/supersport12_.m3u8
-
-#EXTINF:-1,Bein-Sport 1 HD
-https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
-#EXTINF:-1,Bein-Sport 2 HD
-https://raspy-forest-b1e4.aykara463.workers.dev/702.m3u8
-#EXTINF:-1,Bein-Sport 3 HD
-https://raspy-forest-b1e4.aykara463.workers.dev/703.m3u8
-#EXTINF:-1,Bein-Sport 4 HD
-https://raspy-forest-b1e4.aykara463.workers.dev/704.m3u8
-#EXTINF:-1,Bein-Sport 5 HD
-https://raspy-forest-b1e4.aykara463.workers.dev/705.m3u8
-#EXTINF:-1,Bein-Sport Max 1 HD
-https://raspy-forest-b1e4.aykara463.workers.dev/714.m3u8
-#EXTINF:-1,Bein-Sport Max 2 HD
-https://raspy-forest-b1e4.aykara463.workers.dev/715.m3u8
-#EXTINF:-1,S Sport HD
-https://raspy-forest-b1e4.aykara463.workers.dev/705.m3u8
-#EXTINF:-1,Tivibu Spor 1
-https://raspy-forest-b1e4.aykara463.workers.dev/706.m3u8
-#EXTINF:-1,SPOR Smart HD
-https://raspy-forest-b1e4.aykara463.workers.dev/707.m3u8
-#EXTINF:-1,Tivibu Spor 1
-https://raspy-forest-b1e4.aykara463.workers.dev/708.m3u8
-#EXTINF:-1,Tivibu Spor 2
-https://raspy-forest-b1e4.aykara463.workers.dev/711.m3u8
-#EXTINF:-1,Tivibu Spor 3
-https://raspy-forest-b1e4.aykara463.workers.dev/712.m3u8
-#EXTINF:-1,Tivibu Spor 4
-https://raspy-forest-b1e4.aykara463.workers.dev/713.m3u8
-#EXTINF:0,Aspor
-https://raspy-forest-b1e4.aykara463.workers.dev/709.m3u8
-#EXTINF:0,Eurosport 1
-https://raspy-forest-b1e4.aykara463.workers.dev/710.m3u8
-
-#EXTINF:-1,BeIN Sports 4K
-https://firinmakinesi.lol/static/bs11.m3u8
-#EXTINF:-1,BeIN Sports 1
-https://firinmakinesi.lol/static/bs1.m3u8
-#EXTINF:-1,BeIN Sports UHD 2
-https://firinmakinesi.lol/static/bs2.m3u8
-#EXTINF:-1,BeIN Sports UHD 3
-https://firinmakinesi.lol/static/bs3.m3u8
-#EXTINF:-1,BeIN Sports UHD 4
-https://firinmakinesi.lol/static/bs4.m3u8
-#EXTINF:-1,BeIN Sports UHD 5
-https://firinmakinesi.lol/static/bs5.m3u8
-#EXTINF:-1,S SPORT HD 1
-https://firinmakinesi.lol/static/ss11.m3u8
-#EXTINF:-1,S SPORT HD 2
-https://firinmakinesi.lol/static/ss2.m3u8
-#EXTINF:-1,S SPORT+ PLUS HD
-https://firinmakinesi.lol/static/pl1.m3u8
-#EXTINF:-1,S SPORT+ PLUS HD 2
-https://firinmakinesi.lol/static/pl2.m3u8
-#EXTINF:-1,S SPORT+ PLUS HD 3
-https://firinmakinesi.lol/static/pl3.m3u8
-#EXTINF:-1,S SPORT+ PLUS HD 4
-https://firinmakinesi.lol/static/pl4.m3u8
-#EXTINF:-1,S SPORT+ PLUS HD 5
-https://firinmakinesi.lol/static/pl5.m3u8
-#EXTINF:-1,S SPORT+ PLUS HD 6
-https://firinmakinesi.lol/static/pl6.m3u8
-#EXTINF:-1,TABİİ SPOR HD
-https://firinmakinesi.lol/static/tabi.m3u8
-#EXTINF:-1,TABİİ SPOR 1 HD
-https://firinmakinesi.lol/static/tabi1.m3u8
-#EXTINF:-1,TABİİ SPOR HD 2
-https://firinmakinesi.lol/static/tabi2.m3u8
-#EXTINF:-1,TABİİ SPOR HD 3
-https://firinmakinesi.lol/static/tabi3.m3u8
-#EXTINF:-1,TABİİ SPOR HD 4
-https://firinmakinesi.lol/static/tabi4.m3u8
-#EXTINF:-1,TABİİ SPOR HD 5
-https://firinmakinesi.lol/static/tabi5.m3u8
-#EXTINF:-1,TABİİ SPOR HD 6
-https://firinmakinesi.lol/static/tabi6.m3u8
