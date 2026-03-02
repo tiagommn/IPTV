@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1,Bein Sport
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1,Bein Sport 2
+http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:-1,Bein Sport 3
+http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:-1,Bein Sport 4
+http://135.125.109.73:9000/beinsport4_.m3u8
+#EXTINF:-1,Bein Sport 5
+http://135.125.109.73:9000/beinsport5_.m3u8
+#EXTINF:-1,Bein Sport 6
+http://135.125.109.73:9000/beinsport6_.m3u8
+#EXTINF:-1,Bein Sport 7
+http://135.125.109.73:9000/beinsport7_.m3u8
+#EXTINF:-1,Bein Sport 8
+http://135.125.109.73:9000/beinsport8_.m3u8
+#EXTINF:-1,Bein Sport 9
+http://135.125.109.73:9000/beinsport9_.m3u8
+#EXTINF:-1,Bein Sport 10
+http://135.125.109.73:9000/beinsport10_.m3u8
+#EXTINF:-1,Champion TV HD
+http://135.125.109.73:9000/championtvhd_.m3u8
+#EXTINF:-1,Bein Sport Ten 1
+http://135.125.109.73:9000/beinsporten1_.m3u8
+#EXTINF:-1,Bein Sport Ten 2
+http://135.125.109.73:9000/beinsporten2_.m3u8
+#EXTINF:-1,Bein Sport Global
+http://135.125.109.73:9000/beinsportglobal_.m3u8
+#EXTINF:-1,Bein Sport New
+http://135.125.109.73:9000/beinsportnew_.m3u8
+#EXTINF:-1,Bein Sport Xtra
+http://135.125.109.73:9000/beinsport10_.m3u8
+#EXTINF:-1,Bein Sport New
+http://135.125.109.73:9000/beinsportnew_.m3u8
+#EXTINF:-1,Astro Premier League
+http://135.125.109.73:9000/supersport1hd_.m3u8
 #EXTINF:-1,Alwan Sport 1 FHD VIP Arb
 http://135.125.109.73:9000/Alwan%20Sport%201%20FHD%20VIP%20Arb_.m3u8
 #EXTINF:-1,Alwan Sport 2 FHD VIP Arb
