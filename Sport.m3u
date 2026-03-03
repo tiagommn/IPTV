@@ -37,12 +37,28 @@ http://135.125.109.73:9000/dazn1_.m3u8
 http://135.125.109.73:9000/dazn2_.m3u8
 #EXTINF:-1,DAZN 3 PT
 http://135.125.109.73:9000/dazn3_.m3u8
+#EXTINF:-1,DAZN 4 PT
+http://135.125.109.73:9000/dazn4_.m3u8
+#EXTINF:-1,DAZN 5 PT
+http://135.125.109.73:9000/dazn5_.m3u8
+#EXTINF:-1,Super Sport 1
+http://135.125.109.73:9000/supersport1_.m3u8
 #EXTINF:-1,Super Sport 2
 http://135.125.109.73:9000/supersport2_.m3u8
 #EXTINF:-1,Super Sport 3
 http://135.125.109.73:9000/supersport3_.m3u8
+#EXTINF:-1,Super Sport 4
+http://135.125.109.73:9000/supersport4_.m3u8
 #EXTINF:-1,Super Sport 5
 http://135.125.109.73:9000/supersport5_.m3u8
+#EXTINF:-1,Super Sport 6
+http://135.125.109.73:9000/supersport6_.m3u8
+#EXTINF:-1,Super Sport 7
+http://135.125.109.73:9000/supersport7_.m3u8
+#EXTINF:-1,Super Sport 8
+http://135.125.109.73:9000/supersport8_.m3u8
+#EXTINF:-1,Super Sport 9
+http://135.125.109.73:9000/supersport9_.m3u8
 #EXTINF:-1,Super Sport 10
 http://135.125.109.73:9000/supersport10_.m3u8
 #EXTINF:-1,Super Sport 11
