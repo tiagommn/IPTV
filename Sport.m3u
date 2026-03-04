@@ -1,93 +1,92 @@
-#EXTM3U
-#EXTINF:-1,Bein Sport 1
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sport 1
 http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:-1,Bein Sport 2
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sport 2
 http://135.125.109.73:9000/beinsport2_.m3u8
-#EXTINF:-1,Bein Sport 3
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sport 3
 http://135.125.109.73:9000/beinsport3_.m3u8
-#EXTINF:-1,Bein Sport 4
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sport 4
 http://135.125.109.73:9000/beinsport4_.m3u8
-#EXTINF:-1,Bein Sport 5
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sport 5
 http://135.125.109.73:9000/beinsport5_.m3u8
-#EXTINF:-1,Bein Sport 6
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sport 6
 http://135.125.109.73:9000/beinsport6_.m3u8
-#EXTINF:-1,Bein Sport 7
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sport 7
 http://135.125.109.73:9000/beinsport7_.m3u8
-#EXTINF:-1,Bein Sport 8
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sport 8
 http://135.125.109.73:9000/beinsport8_.m3u8
-#EXTINF:-1,Bein Sport 9
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sport 9
 http://135.125.109.73:9000/beinsport9_.m3u8
-#EXTINF:-1,Bein Sport 10
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sport 10
 http://135.125.109.73:9000/beinsport10_.m3u8
-#EXTINF:-1,Bein Sporten 1
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sporten 1
 http://135.125.109.73:9000/beinsporten1_.m3u8
-#EXTINF:-1,Bein Sporten 2
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sporten 2
 http://135.125.109.73:9000/beinsporten2_.m3u8
-#EXTINF:-1,Bein Sporten 3
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sporten 3
 http://135.125.109.73:9000/beinsporten3_.m3u8
-#EXTINF:-1,Bein Sporten 4
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sporten 4
 http://135.125.109.73:9000/beinsporten4_.m3u8
-#EXTINF:-1,Bein Sporten 5
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sporten 5
 http://135.125.109.73:9000/beinsporten5_.m3u8
-#EXTINF:-1,Bein Sporten 6
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sporten 6
 http://135.125.109.73:9000/beinsporten6_.m3u8
-#EXTINF:-1,Bein Sporten 7
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sporten 7
 http://135.125.109.73:9000/beinsporten7_.m3u8
-#EXTINF:-1,Bein Sporten 8
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sporten 8
 http://135.125.109.73:9000/beinsporten8_.m3u8
-#EXTINF:-1,Bein Sporten 9
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sporten 9
 http://135.125.109.73:9000/beinsporten9_.m3u8
-#EXTINF:-1,Bein Sporten 10
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sporten 10
 http://135.125.109.73:9000/beinsporten10_.m3u8
-#EXTINF:-1,Bein Sport Global
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sport Global
 http://135.125.109.73:9000/beinsportglobal_.m3u8
-#EXTINF:-1,Bein Sport New
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sport New
 http://135.125.109.73:9000/beinsportnew_.m3u8
-#EXTINF:-1,Bein Sport Xtra 1
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sport Xtra 1
 http://135.125.109.73:9000/beinsportxtra1_.m3u8
-#EXTINF:-1,Bein Sport Xtra 2
+#EXTINF:-1 tvg-name="" group-title="Server 1",Bein Sport Xtra 2
 http://135.125.109.73:9000/beinsportxtra2_.m3u8
-#EXTINF:-1,Sky Net Sport 1
+#EXTINF:-1 tvg-name="" group-title="Server 1",Sky Net Sport 1
 http://135.125.109.73:9000/SkyNetSport1_.m3u8
-#EXTINF:-1,Sky Net Sport 2
+#EXTINF:-1 tvg-name="" group-title="Server 1",Sky Net Sport 2
 http://135.125.109.73:9000/SkyNetSport2_.m3u8
-#EXTINF:-1,Sky Net Sport 3
+#EXTINF:-1 tvg-name="" group-title="Server 1",Sky Net Sport 3
 http://135.125.109.73:9000/SkyNetSport3_.m3u8
-#EXTINF:-1,Sky Net Sport X
+#EXTINF:-1 tvg-name="" group-title="Server 1",Sky Net Sport X
 http://135.125.109.73:9000/SkyNetSportX_.m3u8
-#EXTINF:-1,DAZN 1 PT
+#EXTINF:-1 tvg-name="" group-title="Server 1",DAZN 1 PT
 http://135.125.109.73:9000/dazn1_.m3u8
-#EXTINF:-1,DAZN 2 PT
+#EXTINF:-1 tvg-name="" group-title="Server 1",DAZN 2 PT
 http://135.125.109.73:9000/dazn2_.m3u8
-#EXTINF:-1,DAZN 3 PT
+#EXTINF:-1 tvg-name="" group-title="Server 1",DAZN 3 PT
 http://135.125.109.73:9000/dazn3_.m3u8
-#EXTINF:-1,DAZN 4 PT
+#EXTINF:-1 tvg-name="" group-title="Server 1",DAZN 4 PT
 http://135.125.109.73:9000/dazn4_.m3u8
-#EXTINF:-1,DAZN 5 PT
+#EXTINF:-1 tvg-name="" group-title="Server 1",DAZN 5 PT
 http://135.125.109.73:9000/dazn5_.m3u8
-#EXTINF:-1,Super Sport 1
+#EXTINF:-1 tvg-name="" group-title="Server 1",Super Sport 1
 http://135.125.109.73:9000/supersport1_.m3u8
-#EXTINF:-1,Super Sport 2
+#EXTINF:-1 tvg-name="" group-title="Server 1",Super Sport 2
 http://135.125.109.73:9000/supersport2_.m3u8
-#EXTINF:-1,Super Sport 3
+#EXTINF:-1 tvg-name="" group-title="Server 1",Super Sport 3
 http://135.125.109.73:9000/supersport3_.m3u8
-#EXTINF:-1,Super Sport 4
+#EXTINF:-1 tvg-name="" group-title="Server 1",Super Sport 4
 http://135.125.109.73:9000/supersport4_.m3u8
-#EXTINF:-1,Super Sport 5
+#EXTINF:-1 tvg-name="" group-title="Server 1",Super Sport 5
 http://135.125.109.73:9000/supersport5_.m3u8
-#EXTINF:-1,Super Sport 6
+#EXTINF:-1 tvg-name="" group-title="Server 1",Super Sport 6
 http://135.125.109.73:9000/supersport6_.m3u8
-#EXTINF:-1,Super Sport 7
+#EXTINF:-1 tvg-name="" group-title="Server 1",Super Sport 7
 http://135.125.109.73:9000/supersport7_.m3u8
-#EXTINF:-1,Super Sport 8
+#EXTINF:-1 tvg-name="" group-title="Server 1",Super Sport 8
 http://135.125.109.73:9000/supersport8_.m3u8
-#EXTINF:-1,Super Sport 9
+#EXTINF:-1 tvg-name="" group-title="Server 1",Super Sport 9
 http://135.125.109.73:9000/supersport9_.m3u8
-#EXTINF:-1,Super Sport 10
+#EXTINF:-1 tvg-name="" group-title="Server 1",Super Sport 10
 http://135.125.109.73:9000/supersport10_.m3u8
-#EXTINF:-1,Super Sport 11
+#EXTINF:-1 tvg-name="" group-title="Server 1",Super Sport 11
 http://135.125.109.73:9000/supersport11_.m3u8
-#EXTINF:-1,Super Sport 12
+#EXTINF:-1 tvg-name="" group-title="Server 1",Super Sport 12
 http://135.125.109.73:9000/supersport12_.m3u8
 
 #EXTINF:-1 tvg-name="" group-title="Server 2",SporTV HD
