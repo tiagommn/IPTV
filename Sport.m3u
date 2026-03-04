@@ -90,69 +90,70 @@ http://135.125.109.73:9000/supersport11_.m3u8
 #EXTINF:-1,Super Sport 12
 http://135.125.109.73:9000/supersport12_.m3u8
 
-#EXTINF:-1,SporTV HD
+#EXTINF:-1 tvg-name="" group-title="Server 2",SporTV HD
 https://02.arlivre.online/sportv/index.m3u8
-#EXTINF:-1,SporTV 2 HD
+#EXTINF:-1 tvg-name="" group-title="Server 2",SporTV 2 HD
 https://02.arlivre.online/sportv2/index.m3u8
-#EXTINF:-1,SporTV 3 HD
+#EXTINF:-1 tvg-name="" group-title="Server 2",SporTV 3 HD
 https://02.arlivre.online/sportv3/index.m3u8
-#EXTINF:-1,BAND Sport HD
+#EXTINF:-1 tvg-name="" group-title="Server 2",BAND Sport HD
 https://02.arlivre.online/bandsport/index.m3u8
-#EXTINF:-1,Combate HD
+#EXTINF:-1 tvg-name="" group-title="Server 2",Combate HD
 https://02.arlivre.online/combate/index.m3u8
-#EXTINF:-1,Espn HD
+#EXTINF:-1 tvg-name="" group-title="Server 2",Espn HD
 https://02.arlivre.online/espn/index.m3u8
-#EXTINF:-1,Espn 2 HD
+#EXTINF:-1 tvg-name="" group-title="Server 2",Espn 2 HD
 https://02.arlivre.online/espn2/index.m3u8
-#EXTINF:-1,Espn 3 HD
+#EXTINF:-1 tvg-name="" group-title="Server 2",Espn 3 HD
 https://02.arlivre.online/espn3/index.m3u8
-#EXTINF:-1,Espn 4 HD
+#EXTINF:-1 tvg-name="" group-title="Server 2",Espn 4 HD
 https://02.arlivre.online/espn4/index.m3u8
-#EXTINF:-1,PREMIERE 1 HD
+#EXTINF:-1 tvg-name="" group-title="Server 2",PREMIERE 1 HD
 https://02.arlivre.online/pre1/index.m3u8
-#EXTINF:-1,PREMIERE 2 HD
+#EXTINF:-1 tvg-name="" group-title="Server 2",PREMIERE 2 HD
 https://02.arlivre.online/pre2/index.m3u8
-#EXTINF:-1,PREMIERE 3 HD
+#EXTINF:-1 tvg-name="" group-title="Server 2",PREMIERE 3 HD
 https://02.arlivre.online/pre3/index.m3u8
-#EXTINF:-1,PREMIERE 4 HD
+#EXTINF:-1 tvg-name="" group-title="Server 2",PREMIERE 4 HD
 https://02.arlivre.online/pre4/index.m3u8
-#EXTINF:-1,PREMIERE 5 HD
+#EXTINF:-1 tvg-name="" group-title="Server 2",PREMIERE 5 HD
 https://02.arlivre.online/pre5/index.m3u8
-#EXTINF:-1,GLOBO SP HD
+#EXTINF:-1 tvg-name="" group-title="Server 2",GLOBO SP HD
 https://02.arlivre.online/globosp/index.m3u8
-#EXTINF:-1,SPACE HD
+#EXTINF:-1 tvg-name="" group-title="Server 2",SPACE HD
 https://02.arlivre.online/space/index.m3u8
-#EXTINF:-1,TNT HD
+#EXTINF:-1 tvg-name="" group-title="Server 2",TNT HD
 https://02.arlivre.online/tnt/index.m3u8
-#EXTINF:-1,History 2 HD
+#EXTINF:-1 tvg-name="" group-title="Server 2",History 2 HD
 https://02.arlivre.online/history2/index.m3u8
-#EXTINF:-1,BAND HD
+#EXTINF:-1 tvg-name="" group-title="Server 2",BAND HD
 https://02.arlivre.online/band/index.m3u8
-#EXTINF:-1,SBT HD
+#EXTINF:-1 tvg-name="" group-title="Server 2",SBT HD
 https://02.arlivre.online/sbt/index.m3u8
 
 
-#EXTINF:-1 tvg-name="" group-title="",SPORT TV 1
+#EXTINF:-1 tvg-name="" group-title="Server 3",SPORT TV 1
 http://144.217.181.165/1gy6y6yhfgf/index.m3u8
-#EXTINF:-1 tvg-name="" group-title="",SPORT TV 2
+#EXTINF:-1 tvg-name="" group-title="Server 3",SPORT TV 2
 http://144.217.181.165/2vg567yhf54y/index.m3u8
-#EXTINF:-1 tvg-name="" group-title="",SPORT TV 3
+#EXTINF:-1 tvg-name="" group-title="Server 3",SPORT TV 3
 http://144.217.181.165/3vgyy7te4/index.m3u8
-#EXTINF:-1 tvg-name="" group-title="",SPORT TV 4
+#EXTINF:-1 tvg-name="" group-title="Server 3",SPORT TV 4
 http://144.217.181.165/4v64rfy76t/index.m3u8
-#EXTINF:-1 tvg-name="" group-title="",SPORT TV 5
+#EXTINF:-1 tvg-name="" group-title="Server 3",SPORT TV 5
 http://144.217.181.165/5rft56rhy7543/index.m3u8
-#EXTINF:-1 tvg-name="" group-title="",SPORTING TV
+#EXTINF:-1 tvg-name="" group-title="Server 3",SPORTING TV
 http://144.217.181.165/188794/index.m3u8
-#EXTINF:-1 tvg-name="" group-title="",ELEVEN SPORTS 1 HD
+#EXTINF:-1 tvg-name="" group-title="Server 3",ELEVEN SPORTS 1 HD
 http://144.217.181.165/k3/index.m3u8
-#EXTINF:-1 tvg-name="" group-title="",DAZN 1
+
+#EXTINF:-1 tvg-name="" group-title="Server 4",DAZN 1
 http://znty.dyndns.org:5010/hls/eleven1.m3u8
-#EXTINF:-1 tvg-name="" group-title="",DAZN 2
+#EXTINF:-1 tvg-name="" group-title="Server 4",DAZN 2
 http://znty.dyndns.org:5010/hls/eleven2.m3u8
-#EXTINF:-1 tvg-name="" group-title="",DAZN 3
+#EXTINF:-1 tvg-name="" group-title="Server 4",DAZN 3
 http://znty.dyndns.org:5010/hls/eleven3.m3u8
-#EXTINF:-1 tvg-name="" group-title="",DAZN 4
+#EXTINF:-1 tvg-name="" group-title="Server 4",DAZN 4
 http://znty.dyndns.org:5010/hls/eleven4.m3u8
-#EXTINF:-1 tvg-name="" group-title="",DAZN 5
+#EXTINF:-1 tvg-name="" group-title="Server 4",DAZN 5
 http://znty.dyndns.org:5010/hls/eleven5.m3u8
