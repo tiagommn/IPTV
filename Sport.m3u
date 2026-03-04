@@ -47,6 +47,14 @@ http://135.125.109.73:9000/beinsportnew_.m3u8
 http://135.125.109.73:9000/beinsportxtra1_.m3u8
 #EXTINF:-1,Bein Sport Xtra 2
 http://135.125.109.73:9000/beinsportxtra2_.m3u8
+#EXTINF:-1,Sky Net Sport 1
+http://135.125.109.73:9000/SkyNetSport1_.m3u8
+#EXTINF:-1,Sky Net Sport 2
+http://135.125.109.73:9000/SkyNetSport2_.m3u8
+#EXTINF:-1,Sky Net Sport 3
+http://135.125.109.73:9000/SkyNetSport3_.m3u8
+#EXTINF:-1,Sky Net Sport X
+http://135.125.109.73:9000/SkyNetSportX_.m3u8
 #EXTINF:-1,DAZN 1 PT
 http://135.125.109.73:9000/dazn1_.m3u8
 #EXTINF:-1,DAZN 2 PT
