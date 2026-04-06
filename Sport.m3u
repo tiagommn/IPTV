@@ -288,3 +288,19 @@ http://38.250.228.248:8000/play/a00j/index.m3u8
 http://38.250.228.248:8000/play/a051/index.m3u8
 #EXTINF:-1 group-title="Server 7",ESPN Premium HD
 http://38.250.228.248:8000/play/a055/index.m3u8
+
+
+#EXTINF:-1 tvg-id="No details available" tvg-name="BENFICA TV1" tvg-logo="" group-title="PORTUGUESE",BENFICA TV1
+https://peaky.techcoder40.workers.dev/1394.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SPORT TV1" tvg-logo="" group-title="PORTUGUESE",SPORT TV1
+https://peaky.techcoder40.workers.dev/1393.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SPORT TV2" tvg-logo="" group-title="PORTUGUESE",SPORT TV2
+https://peaky.techcoder40.workers.dev/1395.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SPORT TV3" tvg-logo="" group-title="PORTUGUESE",SPORT TV3
+https://peaky.techcoder40.workers.dev/1396.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SPORT TV4" tvg-logo="" group-title="PORTUGUESE",SPORT TV4
+https://peaky.techcoder40.workers.dev/1397.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SPORT TV5" tvg-logo="" group-title="PORTUGUESE",SPORT TV5
+https://peaky.techcoder40.workers.dev/1399.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SPORTING TV" tvg-logo="" group-title="PORTUGUESE",SPORTING TV
+https://peaky.techcoder40.workers.dev/1398.m3u8
