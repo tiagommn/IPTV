@@ -321,3 +321,64 @@ http://95.174.71.211/188794/index.m3u8
 http://95.174.71.211/k3/index.m3u8
 #EXTINF:-1,DAZN 2
 http://95.174.71.211/k4/index.m3u8
+
+#EXTINF:-1,Arena Sport 1
+http://89.187.191.99/arena1/index.m3u8
+#EXTINF:-1,Arena Sport 2
+http://89.187.191.99/arena2/index.m3u8
+#EXTINF:-1,Arena Sport 3
+http://89.187.191.99/arena3/index.m3u8
+#EXTINF:-1,Arena Sport 4
+http://89.187.191.99/arena4/index.m3u8
+#EXTINF:-1,Arena Sport 5
+http://89.187.191.99/arena5/index.m3u8
+#EXTINF:-1,Arena Sport 6
+http://89.187.191.99/Arena6/index.m3u8
+#EXTINF:-1,Arena Sport 7
+http://89.187.191.99/arena7/index.m3u8
+#EXTINF:-1,Max Sport 1
+http://89.187.191.99/MaxSport1/index.m3u8
+#EXTINF:-1,Super Sport 1
+http://89.187.191.99/ss1hd/index.m3u8
+#EXTINF:-1,Super Sport 2
+http://89.187.191.99/ss2hd/index.m3u8
+#EXTINF:-1,Super Sport 3
+http://89.187.191.99/ss3hd/index.m3u8
+#EXTINF:-1,Super Sport 4
+http://89.187.191.99/ss4hd/index.m3u8
+#EXTINF:-1,Super Sport 5
+http://89.187.191.99/ss5hd/index.m3u8
+#EXTINF:-1,Super Sport 6 HD
+http://89.187.191.99/ss6/index.m3u8
+#EXTINF:-1,Super Sport 7 HD
+http://89.187.191.99/ss7/index.m3u8
+#EXTINF:-1,Tring Sport 1
+http://89.187.191.99/tringsport1/index.m3u8
+#EXTINF:-1,Tring Sport 2
+http://89.187.191.99/tringsport2/index.m3u8
+#EXTINF:-1,Tring Sport 3
+http://89.187.191.99/tringsport3/index.m3u8
+#EXTINF:-1,K Sport 1
+http://89.187.191.99/ksport1/index.m3u8
+#EXTINF:-1,K Sport 2
+http://89.187.191.99/ksport2/index.m3u8
+#EXTINF:-1,K Sport 3
+http://89.187.191.99/ksport3/index.m3u8
+#EXTINF:-1,K Sport 4
+http://89.187.191.99/ksport4/index.m3u8
+#EXTINF:-1,Sport 1 HD
+http://89.187.191.99/Sport1/index.m3u8
+#EXTINF:-1,Sport 2 HD
+http://89.187.191.99/Sport2/index.m3u8
+#EXTINF:-1,Sport 3 HD
+http://89.187.191.99/Sport3/index.m3u8
+#EXTINF:-1,Sport 4 HD
+http://89.187.191.99/Sport4/index.m3u8
+#EXTINF:-1,Sport 5 HD
+http://89.187.191.99/Sport5/index.m3u8
+#EXTINF:-1,Sport 6 HD
+http://89.187.191.99/Sport6/index.m3u8
+#EXTINF:1,Euro Sport1
+http://89.187.191.99/eurosport1/index.m3u8
+#EXTINF:1,Euro Sport2
+http://89.187.191.99/eurosport2/index.m3u8
