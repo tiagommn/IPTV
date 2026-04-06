@@ -304,3 +304,20 @@ https://peaky.techcoder40.workers.dev/1397.m3u8
 https://peaky.techcoder40.workers.dev/1399.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="SPORTING TV" tvg-logo="" group-title="PORTUGUESE",SPORTING TV
 https://peaky.techcoder40.workers.dev/1398.m3u8
+
+#EXTINF:-1,SPORT TV 1 HD
+http://95.174.71.211/1gy6y6yhfgf/index.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://95.174.71.211/2vg567yhf54y/index.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://95.174.71.211/3vgyy7te4/index.m3u8
+#EXTINF:-1,SPORT TV 4 HD
+http://95.174.71.211/4v64rfy76t/index.m3u8
+#EXTINF:-1,SPORT TV 5 HD
+http://95.174.71.211/5rft56rhy7543/index.m3u8
+#EXTINF:-1,SPORTING TV HD
+http://95.174.71.211/188794/index.m3u8
+#EXTINF:-1,DAZN 1 HD
+http://95.174.71.211/k3/index.m3u8
+#EXTINF:-1,DAZN 2
+http://95.174.71.211/k4/index.m3u8
