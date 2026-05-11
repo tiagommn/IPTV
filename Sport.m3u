@@ -382,3 +382,68 @@ http://89.187.191.99/Sport6/index.m3u8
 http://89.187.191.99/eurosport1/index.m3u8
 #EXTINF:1,Euro Sport2
 http://89.187.191.99/eurosport2/index.m3u8
+
+#EXTINF:-1,SporTV
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/sportv.m3u8
+#EXTINF:-1,SporTV 2
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/sportv2.m3u8
+#EXTINF:-1,SporTV 3
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/sportv3.m3u8
+#EXTINF:-1,SporTV 1 pt
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/pt_sportv1.m3u8
+#EXTINF:-1,SporTV 1 pt
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/pt_sportv2.m3u8
+#EXTINF:-1,SporTV 3 pt
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/pt_sportv3.m3u8
+#EXTINF:-1,SporTV 4 pt
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/pt_sportv4.m3u8
+#EXTINF:-1,SporTV 5 pt
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/pt_sportv5.m3u8
+#EXTINF:-1,SporTV 6 pt
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/pt_sportv6.m3u8
+#EXTINF:-1,SporTV 7 pt
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/pt_sportv7.m3u8
+#EXTINF:-1,Dazn Eleven 1 pt
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/pt_eleven3.m3u8
+#EXTINF:-1,Dazn Eleven 2 pt
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/pt_eleven2.m3u8
+#EXTINF:-1,Dazn Eleven 3 pt
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/pt_eleven3.m3u8
+#EXTINF:-1,ESPN
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/espn.m3u8
+#EXTINF:-1,ESPN 2
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/espn2.m3u8
+#EXTINF:-1,ESPN 3
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/espn3.m3u8
+#EXTINF:-1,ESPN 4
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/espn4.m3u8
+#EXTINF:-1,ESPN 5
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/espn5.m3u8
+#EXTINF:-1,ESPN 6
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/espn6.m3u8
+#EXTINF:-1,Premiere
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/premiere.m3u8
+#EXTINF:-1,Premiere 2
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/premiere2.m3u8
+#EXTINF:-1,Premiere 3
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/premiere3.m3u8
+#EXTINF:-1,Premiere 4
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/premiere4.m3u8
+#EXTINF:-1,Premiere 5
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/premiere5.m3u8
+#EXTINF:-1,Premiere 6
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/premiere6.m3u8
+#EXTINF:-1,Premiere 7
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/premiere7.m3u8
+#EXTINF:-1,Premiere 8
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/premiere8.m3u8
+#EXTINF:-1,Combate
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/combate.m3u8
+#EXTINF:-1,Band Sports
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/bandsports.m3u8
+#EXTINF:-1,Benfica TV pt
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/pt_benficatv.m3u8
+#EXTINF:-1,Caze 1
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/caze1.m3u8
+#EXTINF:-1,XSports
+https://c0edb8d886ff3bed96130d6dedb8e33a.cloudfronte.lat/zzzstream/xsports.m3u8
