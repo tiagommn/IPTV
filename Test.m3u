@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:1,Sportv +
+http://znty.dyndns.org:5010/hls/sportv+.m3u8
+#EXTINF:1,Sport TV 1
+http://znty.dyndns.org:5010/hls/stv1.m3u8
+#EXTINF:1,Sport TV 2
+http://znty.dyndns.org:5010/hls/stv2.m3u8
+#EXTINF:1,SPORT TV 3
+http://znty.dyndns.org:5010/hls/stv3.m3u8
+#EXTINF:1,SPORT TV 4
+http://znty.dyndns.org:5010/hls/stv4.m3u8
+#EXTINF:1,SPORT TV 5
+http://znty.dyndns.org:5010/hls/stv5.m3u8
+#EXTINF:1,Sporting TV
+http://znty.dyndns.org:5010/hls/sporting.m3u8
+#EXTINF:1,Benfica TV
+http://znty.dyndns.org:5010/hls/btv.m3u8
+#EXTINF:1,DAZN 1
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
+#EXTINF:1,DAZN 2
+http://znty.dyndns.org:5010/hls/eleven2.m3u8
+#EXTINF:1,DAZN 3
+http://znty.dyndns.org:5010/hls/eleven3.m3u8
+#EXTINF:1,DAZN 4
+http://znty.dyndns.org:5010/hls/eleven4.m3u8
+#EXTINF:1,DAZN 5
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
+#EXTINF:1,DAZN 5
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
+#EXTINF:1,Eurosport 1
+http://znty.dyndns.org:5010/hls/eurosport.m3u8
+#EXTINF:1,A Bola TV
+http://znty.dyndns.org:5010/hls/bola.m3u8
+#EXTINF:1,TV Record
+http://znty.dyndns.org:5010/hls/record.m3u8
+#EXTINF:1,SIC RADICAL
+http://znty.dyndns.org:5010/hls/sicr.m3u8
+#EXTINF:1,Globo
+http://znty.dyndns.org:5010/hls/globo.m3u8
+#EXTINF:1,Canal Holywood
+http://znty.dyndns.org:5010/hls/hollywood.m3u8
+#EXTINF:1,AXN
+http://znty.dyndns.org:5010/hls/axn.m3u8
+#EXTINF:1,AXN Movies
+http://znty.dyndns.org:5010/hls/axnm.m3u8
+#EXTINF:1,AXN WHITE
+http://znty.dyndns.org:5010/hls/axnw.m3u8
+#EXTINF:1,Star Life
+http://znty.dyndns.org:5010/hls/foxlife.m3u8
+#EXTINF:1,Star Channel
+http://znty.dyndns.org:5010/hls/fox.m3u8
+#EXTINF:1,Star Crime
+http://znty.dyndns.org:5010/hls/foxcrime.m3u8
+#EXTINF:1,Star Comedy
+http://znty.dyndns.org:5010/hls/foxcomedy.m3u8
+#EXTINF:1,Star Movies
+http://znty.dyndns.org:5010/hls/foxm.m3u8
+#EXTINF:1,Canal Historia
+http://znty.dyndns.org:5010/hls/historia.m3u8
+#EXTINF:1,Nat Geo
+http://znty.dyndns.org:5010/hls/natgeo.m3u8
+#EXTINF:1,NAT GEO WILD
+http://znty.dyndns.org:5010/hls/geowild.m3u8
+#EXTINF:1,TCV Internacional
+http://znty.dyndns.org:5010/hls/tcv.m3u8
+#EXTINF:1,TPA Internacional
+http://znty.dyndns.org:5010/hls/tpa.m3u8
+#EXTINF:1,24 Kitchen HD
+http://znty.dyndns.org:5010/hls/24k.m3u8
+#EXTINF:1,TVI Reality
+http://znty.dyndns.org:5010/hls/reality.m3u8
+#EXTINF:1,Porto Canal
+http://znty.dyndns.org:5010/hls/porto.m3u8
+#EXTINF:1,Hot
+http://znty.dyndns.org:5010/hls/adulto2.m3u8
