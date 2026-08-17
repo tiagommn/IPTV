@@ -73,3 +73,185 @@ http://znty.dyndns.org:5010/hls/reality.m3u8
 http://znty.dyndns.org:5010/hls/porto.m3u8
 #EXTINF:1,Hot
 http://znty.dyndns.org:5010/hls/adulto2.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-name="A BOLA TV .b" group-title="Portugal" tvg-logo="" tvg-id="A BOLA TV .b",A BOLA TV .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/eb3490d2d3fed74d0dca6c.m3u8
+#EXTINF:-1 tvg-name="A BOLA TV .c" group-title="Portugal" tvg-logo="https://logo.huhu.to/logo?c=476765689.png" tvg-id="A BOLA TV .c",A BOLA TV .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/748ed117d5bdaf93497ab4.m3u8
+#EXTINF:-1 tvg-name="BENFICA TV .b" group-title="Portugal" tvg-logo="" tvg-id="BENFICA TV .b",BENFICA TV .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/ac0a489994c80cdbde3820.m3u8
+#EXTINF:-1 tvg-name="BENFICA TV (BACKUP) .b" group-title="Portugal" tvg-logo="" tvg-id="BENFICA TV (BACKUP) .b",BENFICA TV (BACKUP) .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/cb8b37427a5f1a6ae2ecaa.m3u8
+#EXTINF:-1 tvg-name="BTV (BENFICA) .c" group-title="Portugal" tvg-logo="https://logo.huhu.to/logo?c=2434383426.png" tvg-id="BTV (BENFICA) .c",BTV (BENFICA) .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/c2afb1db1ccf7633f9e43e.m3u8
+#EXTINF:-1 tvg-name="BTV HD .b" group-title="Portugal" tvg-logo="" tvg-id="BTV HD .b",BTV HD .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/2d37110322d428e2d87ef3.m3u8
+#EXTINF:-1 tvg-name="CANAL 11 .c" group-title="Portugal" tvg-logo="https://logo.huhu.to/logo?c=199161253.png" tvg-id="CANAL 11 .c",CANAL 11 .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/c0847b78ae4c44b1c79d78.m3u8
+#EXTINF:-1 tvg-name="CANAL 11 HD .b" group-title="Portugal" tvg-logo="" tvg-id="CANAL 11 HD .b",CANAL 11 HD .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/ab9baa04114bd96c9aa71d.m3u8
+#EXTINF:-1 tvg-name="CANAL 11 HD (BACKUP) .b" group-title="Portugal" tvg-logo="" tvg-id="CANAL 11 HD (BACKUP) .b",CANAL 11 HD (BACKUP) .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/6f7403c3d389dc2e5d1cb5.m3u8
+#EXTINF:-1 tvg-name="COMBATE .c" group-title="Portugal" tvg-logo="https://logo.huhu.to/logo?c=3779249189.png" tvg-id="COMBATE .c",COMBATE .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/562d3aa9d3c4d9e043562e.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 .c" group-title="Portugal" tvg-logo="" tvg-id="DAZN 1 .c",DAZN 1 .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/7f356eff3a97620ffc7edb.m3u8
+#EXTINF:-1 tvg-name="DAZN 2 .c" group-title="Portugal" tvg-logo="" tvg-id="DAZN 2 .c",DAZN 2 .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/fa86cc5e3762a0477bbeff.m3u8
+#EXTINF:-1 tvg-name="DAZN 3 .c" group-title="Portugal" tvg-logo="" tvg-id="DAZN 3 .c",DAZN 3 .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/b7be01af2412bd06ce3a1d.m3u8
+#EXTINF:-1 tvg-name="DAZN 4 .c" group-title="Portugal" tvg-logo="" tvg-id="DAZN 4 .c",DAZN 4 .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/91f615eb94434658a40a6a.m3u8
+#EXTINF:-1 tvg-name="DAZN 5 .c" group-title="Portugal" tvg-logo="https://logo.huhu.to/logo?c=3836623176.png" tvg-id="DAZN 5 .c",DAZN 5 .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/8c4dce16214c1a84eca351.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORT 1 .b" group-title="Portugal" tvg-logo="" tvg-id="ELEVEN SPORT 1 .b",ELEVEN SPORT 1 .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/a01a70d0dd834bb7a163a3.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORT 1 (BACKUP) .b" group-title="Portugal" tvg-logo="" tvg-id="ELEVEN SPORT 1 (BACKUP) .b",ELEVEN SPORT 1 (BACKUP) .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/e85452e5d5a01b13cc071a.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORT 2 .b" group-title="Portugal" tvg-logo="" tvg-id="ELEVEN SPORT 2 .b",ELEVEN SPORT 2 .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/c04c62202272b98389205a.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORT 2 (BACKUP) .b" group-title="Portugal" tvg-logo="" tvg-id="ELEVEN SPORT 2 (BACKUP) .b",ELEVEN SPORT 2 (BACKUP) .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/8da0b848fa8db45b4d0edb.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORT 3 .b" group-title="Portugal" tvg-logo="" tvg-id="ELEVEN SPORT 3 .b",ELEVEN SPORT 3 .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/347f648ecf3b4e0009332c.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORT 4 HD .b" group-title="Portugal" tvg-logo="" tvg-id="ELEVEN SPORT 4 HD .b",ELEVEN SPORT 4 HD .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/687da308be2a8f41a22b6b.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORT 5 HD .b" group-title="Portugal" tvg-logo="" tvg-id="ELEVEN SPORT 5 HD .b",ELEVEN SPORT 5 HD .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/bb84edc79b6d1a3910a00d.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORT 6 .b" group-title="Portugal" tvg-logo="" tvg-id="ELEVEN SPORT 6 .b",ELEVEN SPORT 6 .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/2b53206390340d7ad0f6df.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 HD .b" group-title="Portugal" tvg-logo="" tvg-id="ELEVEN SPORTS 1 HD .b",ELEVEN SPORTS 1 HD .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/fcb103889fec093816e5d9.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 HD (BACKUP) .b" group-title="Portugal" tvg-logo="" tvg-id="ELEVEN SPORTS 1 HD (BACKUP) .b",ELEVEN SPORTS 1 HD (BACKUP) .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/85f6957b4e30033f79f603.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 HD .b" group-title="Portugal" tvg-logo="" tvg-id="ELEVEN SPORTS 2 HD .b",ELEVEN SPORTS 2 HD .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/9c7f1196a2e3703c0d0634.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 HD (BACKUP) .b" group-title="Portugal" tvg-logo="" tvg-id="ELEVEN SPORTS 2 HD (BACKUP) .b",ELEVEN SPORTS 2 HD (BACKUP) .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/5d325e5c707dbed3182dd6.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 HD .b" group-title="Portugal" tvg-logo="" tvg-id="ELEVEN SPORTS 3 HD .b",ELEVEN SPORTS 3 HD .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/e1aff6f4628b03c050c353.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 HD (BACKUP) .b" group-title="Portugal" tvg-logo="" tvg-id="ELEVEN SPORTS 3 HD (BACKUP) .b",ELEVEN SPORTS 3 HD (BACKUP) .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/e3418d56959ef591b6d367.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 HD .b" group-title="Portugal" tvg-logo="" tvg-id="ELEVEN SPORTS 4 HD .b",ELEVEN SPORTS 4 HD .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/d874199fc53e78c0f52c0a.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 HD (BACKUP) .b" group-title="Portugal" tvg-logo="" tvg-id="ELEVEN SPORTS 4 HD (BACKUP) .b",ELEVEN SPORTS 4 HD (BACKUP) .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/75f07237c26838d8814193.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 5 FHD .b" group-title="Portugal" tvg-logo="" tvg-id="ELEVEN SPORTS 5 FHD .b",ELEVEN SPORTS 5 FHD .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/293e1748c7401b3402fdf2.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 5 HD .b" group-title="Portugal" tvg-logo="" tvg-id="ELEVEN SPORTS 5 HD .b",ELEVEN SPORTS 5 HD .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/0d1ff8b6dc33e50a23c542.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 HD .b" group-title="Portugal" tvg-logo="" tvg-id="ELEVEN SPORTS 6 HD .b",ELEVEN SPORTS 6 HD .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/6addc2e92c4d6a4d88c835.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 HD (BACKUP) .b" group-title="Portugal" tvg-logo="" tvg-id="ELEVEN SPORTS 6 HD (BACKUP) .b",ELEVEN SPORTS 6 HD (BACKUP) .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/4483be9cf2d5553e5dcce7.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT 1 .b" group-title="Portugal" tvg-logo="" tvg-id="EUROSPORT 1 .b",EUROSPORT 1 .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/5409e3eaee91100710e515.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT 1 .c" group-title="Portugal" tvg-logo="https://logo.huhu.to/logo?c=3654612487.png" tvg-id="EUROSPORT 1 .c",EUROSPORT 1 .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/2833345cea3a57ff8fcdae.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD .b" group-title="Portugal" tvg-logo="" tvg-id="EUROSPORT 1 HD .b",EUROSPORT 1 HD .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/855b9f2283da7177d8c79c.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT 2 .b" group-title="Portugal" tvg-logo="" tvg-id="EUROSPORT 2 .b",EUROSPORT 2 .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/c3833ba3dc8348af8b991b.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT 2 .c" group-title="Portugal" tvg-logo="https://logo.huhu.to/logo?c=2658438359.png" tvg-id="EUROSPORT 2 .c",EUROSPORT 2 .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/685898ac660b7b0be5c29d.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT 2 (BACKUP) .b" group-title="Portugal" tvg-logo="" tvg-id="EUROSPORT 2 (BACKUP) .b",EUROSPORT 2 (BACKUP) .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/504b421aa02c3057f9e70c.m3u8
+#EXTINF:-1 tvg-name="FIGHT NETWORK .c" group-title="Portugal" tvg-logo="https://logo.huhu.to/logo?c=982518827.png" tvg-id="FIGHT NETWORK .c",FIGHT NETWORK .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/14485e5aebdf542aa9dfe5.m3u8
+#EXTINF:-1 tvg-name="FUEL TV .b" group-title="Portugal" tvg-logo="" tvg-id="FUEL TV .b",FUEL TV .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/7e79231f380d31d38554ad.m3u8
+#EXTINF:-1 tvg-name="FUEL TV .c" group-title="Portugal" tvg-logo="https://logo.huhu.to/logo?c=71983983.png" tvg-id="FUEL TV .c",FUEL TV .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/ff6c19912518d3cc24886e.m3u8
+#EXTINF:-1 tvg-name="FUEL TV (BACKUP) .b" group-title="Portugal" tvg-logo="" tvg-id="FUEL TV (BACKUP) .b",FUEL TV (BACKUP) .b
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/demo/stream/394147a764f59c7514c00c.m3u8
