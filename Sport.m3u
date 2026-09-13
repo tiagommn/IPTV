@@ -1,5 +1,76 @@
-#EXTM3U
-#EXTINF:0 group-title="PT" tvg-id="" tvg-logo="http://epg.one/img2/6584.png" tvg-rec="0",Benfica TV PT
-http://193.111.116.251:8900/hls/benfica-tv.m3u8
-#EXTINF:0 group-title="PT" tvg-id="" tvg-logo="http://epg.one/img2/6584.png" tvg-rec="0",Benfica TV FHD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/19160/index.m3u8
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6512.jpg?56699" tvg-id="",VIP: BENFICA TV ᴴᴰ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688714.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10882.jpg?25549" tvg-id="",VIP: BTV ᴿᴬᵂ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688713.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857" tvg-id="",VIP: DAZN 1 ᴴᴰ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688730.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857" tvg-id="",VIP: DAZN 1 ᴿᴬᵂ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688729.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857" tvg-id="",VIP: DAZN 2 ᴴᴰ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688728.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857" tvg-id="",VIP: DAZN 2 ᴿᴬᵂ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688727.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857" tvg-id="",VIP: DAZN 3 ᴴᴰ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688726.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857" tvg-id="",VIP: DAZN 3 ᴿᴬᵂ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688725.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857" tvg-id="",VIP: DAZN 4 ᴴᴰ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688724.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857" tvg-id="",VIP: DAZN 4 ᴿᴬᵂ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688723.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857" tvg-id="",VIP: DAZN 5 ᴴᴰ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688722.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857" tvg-id="",VIP: DAZN 5 ᴿᴬᵂ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688721.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857" tvg-id="",VIP: DAZN 6 ᴴᴰ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688720.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857" tvg-id="",VIP: DAZN 6 ᴿᴬᵂ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688719.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12985.png?11978" tvg-id="",VIP: EUROSPORT 1 ᴴᴰ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688718.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12985.png?11978" tvg-id="",VIP: EUROSPORT 1 ᴿᴬᵂ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688717.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14071.png?73310" tvg-id="",VIP: EUROSPORT 2 ᴴᴰ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688716.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14071.png?73310" tvg-id="",VIP: EUROSPORT 2 ᴿᴬᵂ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688715.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3942.png?20392" tvg-id="",VIP: FIGHT NETWORK ᴴᴰ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688707.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11223.jpg?86092" tvg-id="",VIP: KOMBAT SPORT ᴿᴬᵂ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688711.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6552.jpg?79047" tvg-id="",VIP: MOTORVISION ᴴᴰ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688712.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11228.jpg?26238" tvg-id="",VIP: PFC ᴴᴰ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688706.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14262.png?56577" tvg-id="",VIP: SPORT TV 1 ᴴᴰ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688742.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14262.png?56577" tvg-id="",VIP: SPORT TV 1 ᴿᴬᵂ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688741.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14263.png?42781" tvg-id="",VIP: SPORT TV 2 ᴴᴰ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688740.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14263.png?42781" tvg-id="",VIP: SPORT TV 2 ᴿᴬᵂ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688739.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14264.png?57203" tvg-id="",VIP: SPORT TV 3 ᴴᴰ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688738.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14264.png?57203" tvg-id="",VIP: SPORT TV 3 ᴿᴬᵂ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688737.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14265.png?6859" tvg-id="",VIP: SPORT TV 4 ᴴᴰ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688736.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14265.png?6859" tvg-id="",VIP: SPORT TV 4 ᴿᴬᵂ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688735.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14266.png?40575" tvg-id="",VIP: SPORT TV 5 ᴴᴰ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688734.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14266.png?40575" tvg-id="",VIP: SPORT TV 5 ᴿᴬᵂ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688733.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11230.jpg?78739" tvg-id="",VIP: SPORT TV NBA ᴴᴰ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688732.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11230.jpg?78739" tvg-id="",VIP: SPORT TV NBA ᴿᴬᵂ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688731.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14268.png?62836" tvg-id="",VIP: SPORT TV+ ᴴᴰ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688744.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14268.png?62836" tvg-id="",VIP: SPORT TV+ ᴿᴬᵂ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688743.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11222.jpg?56940" tvg-id="",VIP: SPORTING TV ᴴᴰ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688710.ts
+#EXTINF:-1 group-title="PT| DESPORTO ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11222.jpg?56940" tvg-id="",VIP: SPORTING TV ᴿᴬᵂ
+https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688709.ts
