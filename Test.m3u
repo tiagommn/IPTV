@@ -1,28 +1,36 @@
-#EXTM3U
 
-#EXTINF:-1,tntsports
-195.178.110.110:80/tntsports/index.m3u8
-#EXTINF:-1,sportv3
-195.178.110.110:80/sportv3/index.m3u8
-#EXTINF:-1,premiere5
-195.178.110.110:80/premiere5/index.m3u8
+sport brasil
+
+Code
+#EXTINF:-1,ESPN
+http://195.178.110.110/espn/index.m3u8
+#EXTINF:-1,ESPN 2
+http://195.178.110.110/espn2/index.m3u8
+#EXTINF:-1,ESPN 3
+http://195.178.110.110/espn3/index.m3u8
+#EXTINF:-1,ESPN 4
+http://195.178.110.110/espn4/index.m3u8
+#EXTINF:-1,ESPN 5
+http://195.178.110.110/espn5/index.m3u8
+#EXTINF:-1,ESPN 6
+http://195.178.110.110/espn6/index.m3u8
+#EXTINF:-1,ESPN 7
+http://195.178.110.110/espn7/index.m3u8
+#EXTINF:-1,FOX SPORTS
+http://195.178.110.110/foxsports/index.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://195.178.110.110/foxsports2/index.m3u8
+#EXTINF:-1,MOVISTAR
+http://195.178.110.110/movistar/index.m3u8
+#EXTINF:-1,FOX SPORTS PREMIUM
+http://195.178.110.110/foxsportspremium/index.m3u8
 #EXTINF:-1,univision
-195.178.110.110:80/univision/index.m3u8
-#EXTINF:-1,foxsportspremium
-195.178.110.110:80/foxsportspremium/index.m3u8
-#EXTINF:-1,movistar
-195.178.110.110:80/movistar/index.m3u8
-#EXTINF:-1,foxsports3
-195.178.110.110:80/foxsports3/index.m3u8
-#EXTINF:-1,foxsports
-195.178.110.110:80/foxsports/index.m3u8
-#EXTINF:-1,foxsports2
-195.178.110.110:80/foxsports2/index.m3u8
-#EXTINF:-1,telemundo
-195.178.110.110:80/telemundo/index.m3u8
-#EXTINF:-1,espn
-195.178.110.110:80/espn/index.m3u8
-#EXTINF:-1,espn2
-195.178.110.110:80/espn2/index.m3u8
-#EXTINF:-1,espn3
-195.178.110.110:80/espn3/index.m3u8
+http://195.178.110.110/univision/index.m3u8
+#EXTINF:-1,SPORTV
+http://195.178.110.110/sportv/index.m3u8
+#EXTINF:-1,SPORTV 2
+http://195.178.110.110/sportv2/index.m3u8
+#EXTINF:-1,SPORTV 3
+http://195.178.110.110/sportv3/index.m3u8
+#EXTINF:-1,tntsports
+http://195.178.110.110/tntsports/index.m3u8
